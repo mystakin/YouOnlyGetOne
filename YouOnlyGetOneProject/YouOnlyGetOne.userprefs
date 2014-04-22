@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Misc\CowMode.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Misc\Triggers.cs" Line="25" Column="38" />
+      <File FileName="Assets\Scripts\Data\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Global\Tags.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Data\Interactions.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Data\CameraMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Control\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Control\EndingBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Global\GameStates.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Global\LevelNames.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GUI\PlayerAnimation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Global\GlobalMethods.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Misc\Ending.cs" Line="49" Column="28" />
+      <File FileName="Assets\Scripts\Misc\CowMode.cs" Line="14" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Scripts" expanded="True">
+              <Node name="Misc" expanded="True">
+                <Node name="CowMode.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
